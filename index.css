@@ -21,6 +21,12 @@ body {
   gap: 40px;
 }
 
+.clock {
+  font-size: 1.1rem;
+  letter-spacing: 2px;
+  color: #aaa;
+}
+
 h1 {
   font-size: 2.5rem;
   letter-spacing: 4px;
